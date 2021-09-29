@@ -7,6 +7,8 @@ No logged user:
 
 ![image](https://user-images.githubusercontent.com/89261015/135244979-45475a85-4de5-4010-9e72-f96fd8407f49.png)
 
+Logged user:
+
 ![image](https://user-images.githubusercontent.com/89261015/135245055-68a880cd-5c60-4025-974b-e8b0f59d44b9.png)
 
 
